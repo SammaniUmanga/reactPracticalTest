@@ -1,3 +1,22 @@
+######
+TO RUN THE PROJECT:
+(1) In the project directory, run below command:
+### `npm install`
+
+(2)Then run this command:
+### `npm start`
+
+***
+node version: v10.15.1
+npm version: 6.4.1
+react version: 16.8.6
+***
+
+######
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
